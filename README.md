@@ -5,8 +5,8 @@ rake db:seed
 Creara 101 usuarios todos con la contraseña '123456789' el usuario principal
 para hacer pruebas es:
 
-usuario:    usuariodeprueba@dominio.com'
-contraseña: '123456789
+usuario:    'usuariodeprueba@dominio.com'
+contraseña: '123456789'
 
 Los otros usuarios son creados con Faker para poder probar las funcionalidades
 del api. Agrego un set de peticiones de postman en el directorio resources:
