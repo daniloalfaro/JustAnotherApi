@@ -14,4 +14,4 @@ del api. Agrego un set de peticiones de postman en el directorio resources:
 resources/jusanotherapi.postman_collection.json
 
 Despues de uniciar session con el usuario de prueba el api regresa un token que
-se utilizara como autenricacion para las demas acciones.
+se utilizara como autenticacion para las demas acciones.
